@@ -11,7 +11,7 @@ Kacchi biryani, raw marinated meat is layered with raw rice before being cooked 
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Green Akshay Plaza, 146/G (old), 59 (new), Satmasjid Road (4.41 mi)
 Dhaka, Bangladesh 1205
 
-##### 2. [Salam's Kitchen§](https://www.facebook.com/salamskitchen/) [4oo5]
+##### 2. [Salam's Kitchen](https://www.facebook.com/salamskitchen/) [4oo5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Any authentic branch of Salam's Kitchen.
 
 
