@@ -23,6 +23,6 @@ Maintain lexicographic order for country name. Maintain order for restaurants ac
 
 Format :
 ```
-SlNo. [Restaurant Name](web_url)
+SlNo. [Restaurant Name](web_url) [4oo5 = 4 out of 5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Address of location
 ```
