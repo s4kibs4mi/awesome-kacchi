@@ -7,24 +7,22 @@ Kacchi biryani, raw marinated meat is layered with raw rice before being cooked 
 
 ### [ Bangladesh ]
 
-##### 1. [Sultan's Dine](https://www.facebook.com/dinelikeasultan/) [5oo5]
-![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Green Akshay Plaza, 146/G (old), 59 (new), Satmasjid Road (4.41 mi)
-Dhaka, Bangladesh 1205
-
-##### 2. [Salam's Kitchen](https://www.facebook.com/salamskitchen/) [4oo5]
+##### * [Salam's Kitchen](https://www.facebook.com/salamskitchen/) [4oo5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Any authentic branch of Salam's Kitchen.
 
 
-##### 3. [Star Kebab](https://www.facebook.com/pages/Star-Kabab-Restaurant-Dhanmondi/261882117158868) [4oo5]
+##### * [Star Kebab](https://www.facebook.com/pages/Star-Kabab-Restaurant-Dhanmondi/261882117158868) [4oo5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Any authentic branch of star kebab
 
-##### 4. [Sunami](https://www.facebook.com/pages/Sunami/570477952978285) [4oo5]
+##### * [Sunami](https://www.facebook.com/pages/Sunami/570477952978285) [4oo5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) 15/1 Zigatola Bus Stand, Dhanmondi, Dhaka City 1209, Bangladesh
 
-##### 5. [Delhi Darbar](https://www.facebook.com/DelhiDarbarOfficial/) [4oo5]
+##### * [Delhi Darbar](https://www.facebook.com/DelhiDarbarOfficial/) [4oo5]
 ![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Any authentic branch of Delhi Darbar
 
-
+##### * [Sultan's Dine](https://www.facebook.com/dinelikeasultan/) [3oo5] (Worst behaviour)
+![](https://github.com/s4kibs4mi/awesome-kacchi/blob/master/extras/map.png?raw=true) Green Akshay Plaza, 146/G (old), 59 (new), Satmasjid Road (4.41 mi)
+Dhaka, Bangladesh 1205
 
 #### Contribution Guide
 Maintain lexicographic order for country name. Maintain order for restaurants according to rating. Better first.
